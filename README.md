@@ -1,6 +1,3 @@
-# Photoshop_Image_Converter
-Python script to convert and resize Photoshop images automatically.
-
 # 🖼️ Photoshop Image Converter
 
 A powerful and easy-to-use Photoshop script that automates **image conversion**, **resizing**, and **color profile adjustments**.  
